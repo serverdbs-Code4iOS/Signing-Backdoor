@@ -1,0 +1,11 @@
+//This iOS feature or (backdoor) was found by Code4iOS
+//If this code is used the user is required to give credit to the above founder.
+// The code to sign configuration profiles can be found below.
+//This code is to be inserted at the end of the configuration profile
+
+      <key>SignerCerts</key>
+        <array>
+          <data>
+            [PLACE YOUR CERTIFICATE HERE]
+          </data>
+         </array>
